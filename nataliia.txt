@@ -1,0 +1,2 @@
+https://javarush.ru/groups/posts/2779-reverse-string-v-java-uchimsja-reversirovatjh-stroki-raznihmi-sposobami
+Тут багато цікавих алгоритмів для того, щоб перевернути рядок, а також коротке пояснення, навіщо взагалі знати і розуміти алгоритми.
